@@ -1,0 +1,32 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 2,
+      "layerId": "RESEAU_ROUTIER_1bb2e27c_95be_48c1_aad7_e971202a138e",
+      "name": "RESEAU_ROUTIER",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "CI_97171d35_ec43_48c9_8151_4af24fd2b342",
+      "name": "CI",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "plugin:gsielevtile",
+      "name": "GSI Elevation Tile",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ]
+}

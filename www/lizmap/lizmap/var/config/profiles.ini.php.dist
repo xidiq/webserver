@@ -1,0 +1,19 @@
+;<?php die(''); ?>
+
+[jdb:jauth]
+driver=pgsql
+host=localhost
+port=5432
+database="MBD1"
+user=postgres
+password=@Miniopera42
+search_path=public
+
+[jdb:lizlog]
+driver=pgsql
+host=localhost
+port=5432
+database="MBD1"
+user=postgres
+password=@Miniopera42
+search_path=public
